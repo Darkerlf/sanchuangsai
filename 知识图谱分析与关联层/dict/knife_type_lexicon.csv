@@ -1,0 +1,14 @@
+pattern,knife_type_norm,knife_type_display_cn,priority
+\bnakiri\b,nakiri,菜切/中式切菜刀（Nakiri）,1
+\bsantoku\b,santoku,三德刀（Santoku）,2
+\bcleaver\b,cleaver,斩切两用刀/菜刀（Cleaver）,3
+\bbread\s+knife\b|\bbread\b,bread,面包刀（Bread）,4
+\bparing\b,paring,削皮刀（Paring）,5
+\butility\b,utility,多用刀（Utility）,6
+\bboning\b,boning,剔骨刀（Boning）,7
+\bfillet\b,fillet,片鱼刀（Fillet）,8
+\bcarving\b,carving,切片刀（Carving）,9
+\bsteak\b,steak,牛排刀（Steak）,10
+\bchef'?s?\b|\bchef\b,chef,主厨刀（Chef）,20
+\b(knife\s*set|set\s*of\s*\d+|\d+\s*pcs?\b|\d+\s*piece\b|\d+-piece\b)\b,set,套装（Set）,30
+\b(knife\s*block|block\b)\b,block,刀座/刀架（Block）,31

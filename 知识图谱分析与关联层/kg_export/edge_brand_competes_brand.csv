@@ -1,0 +1,586 @@
+﻿brand_id_1,brand_id_2,shared_subcat_n,shared_keyword_n,avg_price_gap
+imarku,paudin,4,0,14.65875
+hoshanho,huusk,3,0,5.73333333333333
+cuisinart,henckels,3,0,16.490000000000002
+cuisinart,paudin,3,0,4.990000000000002
+henckels,paudin,3,0,11.813333333333333
+henckels,hoshanho,3,0,12.064999999999996
+hoshanho,paudin,2,1,15.402500000000014
+imarku,knifesaga,2,0,30.000000000000007
+cuisinart,hampton forge,2,0,15.702500000000002
+hampton forge,henckels,2,0,9.277500000000002
+hampton forge,paudin,2,0,11.4425
+astercook,cuisinart,2,0,6.947500000000009
+astercook,cutluxe,2,0,5.254999999999992
+astercook,henckels,2,0,15.487499999999994
+astercook,hoshanho,2,0,13.405000000000008
+astercook,huusk,2,0,6.505000000000003
+astercook,imarku,2,0,5.9950000000000045
+astercook,keemake,2,0,13.245000000000005
+astercook,mac knife,2,0,16.23999999999999
+astercook,mccook,2,0,6.0049999999999955
+astercook,paudin,2,0,5.007499999999997
+astercook,styled settings,2,0,14.995000000000005
+cuisinart,cutluxe,2,0,12.2025
+cuisinart,hoshanho,2,0,20.352500000000017
+cuisinart,huusk,2,0,13.452500000000011
+cuisinart,imarku,2,0,9.502500000000001
+cuisinart,keemake,2,0,6.297499999999996
+cuisinart,mac knife,2,0,23.1875
+cuisinart,mccook,2,0,12.952500000000004
+cuisinart,styled settings,2,0,15.502500000000001
+cutluxe,henckels,2,0,14.727499999999992
+cutluxe,hoshanho,2,0,8.150000000000016
+cutluxe,huusk,2,0,8.750000000000004
+cutluxe,imarku,2,0,6.2499999999999964
+cutluxe,keemake,2,0,18.499999999999996
+cutluxe,mac knife,2,0,10.985
+cutluxe,mccook,2,0,5.2499999999999964
+cutluxe,paudin,2,0,7.252499999999998
+cutluxe,styled settings,2,0,20.249999999999996
+henckels,huusk,2,0,8.982499999999991
+henckels,imarku,2,0,18.477499999999996
+henckels,keemake,2,0,28.732499999999998
+henckels,mac knife,2,0,18.752499999999998
+henckels,mccook,2,0,9.482499999999998
+henckels,shan zu,2,0,23.52250000000001
+henckels,styled settings,2,0,30.482499999999998
+hoshanho,imarku,2,0,14.400000000000013
+hoshanho,keemake,2,0,26.650000000000013
+hoshanho,mac knife,2,0,5.675000000000015
+hoshanho,mccook,2,0,7.400000000000013
+hoshanho,shan zu,2,0,24.0
+hoshanho,styled settings,2,0,28.400000000000013
+huusk,imarku,2,0,12.500000000000007
+huusk,keemake,2,0,19.750000000000007
+huusk,mac knife,2,0,12.77500000000001
+huusk,mccook,2,0,3.500000000000007
+huusk,paudin,2,0,8.502500000000008
+huusk,styled settings,2,0,21.500000000000007
+imarku,keemake,2,0,12.25
+imarku,mac knife,2,0,17.234999999999996
+imarku,mccook,2,0,9.0
+imarku,styled settings,2,0,14.0
+keemake,mac knife,2,0,29.484999999999996
+keemake,mccook,2,0,19.25
+keemake,paudin,2,0,11.247499999999999
+keemake,styled settings,2,0,13.25
+mac knife,mccook,2,0,10.234999999999996
+mac knife,paudin,2,0,18.237499999999997
+mac knife,styled settings,2,0,31.234999999999996
+mccook,paudin,2,0,8.002500000000001
+mccook,styled settings,2,0,21.0
+paudin,styled settings,2,0,17.0025
+henckels,nanfang brothers,2,0,25.41500000000002
+hoshanho,nanfang brothers,2,0,27.974999999999994
+amazon basics,cuisinart,1,0,8.8
+amazon basics,goodcook,1,0,10.829999999999998
+amazon basics,hampton forge,1,0,11.75
+amazon basics,henckels,1,0,4.199999999999999
+amazon basics,kershaw,1,0,2.3000000000000007
+amazon basics,kitchenaid,1,0,1.2449999999999974
+amazon basics,mad shark,1,0,6.199999999999999
+amazon basics,oaksware,1,0,5.799999999999999
+amazon basics,paudin,1,0,3.7300000000000004
+amazon basics,topfeel,1,0,7.990000000000002
+cuisinart,goodcook,1,0,19.63
+cuisinart,kershaw,1,0,6.5
+cuisinart,kitchenaid,1,0,10.044999999999998
+cuisinart,mad shark,1,0,2.6000000000000014
+cuisinart,oaksware,1,0,14.6
+cuisinart,topfeel,1,0,0.8099999999999987
+goodcook,hampton forge,1,0,0.9200000000000017
+goodcook,henckels,1,0,15.029999999999998
+goodcook,kershaw,1,0,13.129999999999999
+goodcook,kitchenaid,1,0,9.585
+goodcook,mad shark,1,0,17.029999999999998
+goodcook,oaksware,1,0,5.029999999999999
+goodcook,paudin,1,0,14.559999999999999
+goodcook,topfeel,1,0,18.82
+hampton forge,kershaw,1,0,14.05
+hampton forge,kitchenaid,1,0,10.505000000000003
+hampton forge,mad shark,1,0,17.95
+hampton forge,oaksware,1,0,5.950000000000001
+hampton forge,topfeel,1,0,19.740000000000002
+henckels,kershaw,1,0,1.8999999999999986
+henckels,kitchenaid,1,0,5.444999999999997
+henckels,mad shark,1,0,2.0
+henckels,oaksware,1,0,9.999999999999998
+henckels,topfeel,1,0,3.7900000000000027
+kershaw,kitchenaid,1,0,3.544999999999998
+kershaw,mad shark,1,0,3.8999999999999986
+kershaw,oaksware,1,0,8.1
+kershaw,paudin,1,0,1.4299999999999997
+kershaw,topfeel,1,0,5.690000000000001
+kitchenaid,mad shark,1,0,7.444999999999997
+kitchenaid,oaksware,1,0,4.5550000000000015
+kitchenaid,paudin,1,0,4.974999999999998
+kitchenaid,topfeel,1,0,9.235
+mad shark,oaksware,1,0,11.999999999999998
+mad shark,paudin,1,0,2.469999999999999
+mad shark,topfeel,1,0,1.7900000000000027
+oaksware,paudin,1,0,9.53
+oaksware,topfeel,1,0,13.790000000000001
+paudin,topfeel,1,0,4.260000000000002
+aisyoko,amorston,1,0,7.234999999999999
+aisyoko,astercook,1,0,3.75
+aisyoko,carote,1,0,23.749999999999993
+aisyoko,cokinutvalleyus,1,0,5.270000000000003
+aisyoko,cuisinart,1,0,6.705000000000005
+aisyoko,cutluxe,1,0,11.249999999999993
+aisyoko,d.perlla,1,0,9.75
+aisyoko,emojoy,1,0,23.749999999999993
+aisyoko,fohere,1,0,23.740000000000002
+aisyoko,hampton forge,1,0,4.149999999999999
+aisyoko,henckels,1,0,6.755000000000003
+aisyoko,hoshanho,1,0,17.75
+aisyoko,huusk,1,0,3.75
+aisyoko,imarku,1,0,8.75
+aisyoko,katisun,1,0,3.75
+aisyoko,keemake,1,0,10.75
+aisyoko,kuisine,1,0,23.749999999999993
+aisyoko,mac knife,1,0,26.259999999999998
+aisyoko,marco almond,1,0,8.75
+aisyoko,mccook,1,0,6.75
+aisyoko,oster,1,0,10.410000000000004
+aisyoko,paudin,1,0,3.2550000000000026
+aisyoko,retrosohoo,1,0,5.75
+aisyoko,shan zu,1,0,0.25
+aisyoko,styled settings,1,0,0.75
+aisyoko,syokami,1,0,21.240000000000002
+aisyoko,wangmazi,1,0,13.75
+amorston,astercook,1,0,3.4849999999999994
+amorston,carote,1,0,16.514999999999993
+amorston,cokinutvalleyus,1,0,12.505000000000003
+amorston,cuisinart,1,0,13.940000000000005
+amorston,cutluxe,1,0,4.0149999999999935
+amorston,d.perlla,1,0,2.5150000000000006
+amorston,emojoy,1,0,16.514999999999993
+amorston,fohere,1,0,16.505000000000003
+amorston,hampton forge,1,0,3.085000000000001
+amorston,henckels,1,0,0.4799999999999969
+amorston,hoshanho,1,0,10.515
+amorston,huusk,1,0,3.4849999999999994
+amorston,imarku,1,0,1.5150000000000006
+amorston,katisun,1,0,3.4849999999999994
+amorston,keemake,1,0,17.985
+amorston,kuisine,1,0,16.514999999999993
+amorston,mac knife,1,0,19.025
+amorston,marco almond,1,0,1.5150000000000006
+amorston,mccook,1,0,0.48499999999999943
+amorston,oster,1,0,17.645000000000003
+amorston,paudin,1,0,10.490000000000002
+amorston,retrosohoo,1,0,12.985
+amorston,shan zu,1,0,7.484999999999999
+amorston,styled settings,1,0,6.484999999999999
+amorston,syokami,1,0,14.005000000000003
+amorston,wangmazi,1,0,6.515000000000001
+astercook,carote,1,0,19.999999999999993
+astercook,cokinutvalleyus,1,0,9.020000000000003
+astercook,d.perlla,1,0,6.0
+astercook,emojoy,1,0,19.999999999999993
+astercook,fohere,1,0,19.990000000000002
+astercook,hampton forge,1,0,0.3999999999999986
+astercook,katisun,1,0,0.0
+astercook,kuisine,1,0,19.999999999999993
+astercook,marco almond,1,0,5.0
+astercook,oster,1,0,14.160000000000004
+astercook,retrosohoo,1,0,9.5
+astercook,shan zu,1,0,4.0
+astercook,syokami,1,0,17.490000000000002
+astercook,wangmazi,1,0,10.0
+carote,cokinutvalleyus,1,0,29.019999999999996
+carote,cuisinart,1,0,30.455
+carote,cutluxe,1,0,12.5
+carote,d.perlla,1,0,13.999999999999993
+carote,emojoy,1,0,0.0
+carote,fohere,1,0,0.009999999999990905
+carote,hampton forge,1,0,19.599999999999994
+carote,henckels,1,0,16.99499999999999
+carote,hoshanho,1,0,5.999999999999993
+carote,huusk,1,0,19.999999999999993
+carote,imarku,1,0,14.999999999999993
+carote,katisun,1,0,19.999999999999993
+carote,keemake,1,0,34.49999999999999
+carote,kuisine,1,0,0.0
+carote,mac knife,1,0,2.510000000000005
+carote,marco almond,1,0,14.999999999999993
+carote,mccook,1,0,16.999999999999993
+carote,oster,1,0,34.16
+carote,paudin,1,0,27.004999999999995
+carote,retrosohoo,1,0,29.499999999999993
+carote,shan zu,1,0,23.999999999999993
+carote,styled settings,1,0,22.999999999999993
+carote,syokami,1,0,2.509999999999991
+carote,wangmazi,1,0,9.999999999999993
+cokinutvalleyus,cuisinart,1,0,1.4350000000000023
+cokinutvalleyus,cutluxe,1,0,16.519999999999996
+cokinutvalleyus,d.perlla,1,0,15.020000000000003
+cokinutvalleyus,emojoy,1,0,29.019999999999996
+cokinutvalleyus,fohere,1,0,29.010000000000005
+cokinutvalleyus,hampton forge,1,0,9.420000000000002
+cokinutvalleyus,henckels,1,0,12.025000000000006
+cokinutvalleyus,hoshanho,1,0,23.020000000000003
+cokinutvalleyus,huusk,1,0,9.020000000000003
+cokinutvalleyus,imarku,1,0,14.020000000000003
+cokinutvalleyus,katisun,1,0,9.020000000000003
+cokinutvalleyus,keemake,1,0,5.479999999999997
+cokinutvalleyus,kuisine,1,0,29.019999999999996
+cokinutvalleyus,mac knife,1,0,31.53
+cokinutvalleyus,marco almond,1,0,14.020000000000003
+cokinutvalleyus,mccook,1,0,12.020000000000003
+cokinutvalleyus,oster,1,0,5.140000000000001
+cokinutvalleyus,paudin,1,0,2.0150000000000006
+cokinutvalleyus,retrosohoo,1,0,0.4799999999999969
+cokinutvalleyus,shan zu,1,0,5.020000000000003
+cokinutvalleyus,styled settings,1,0,6.020000000000003
+cokinutvalleyus,syokami,1,0,26.510000000000005
+cokinutvalleyus,wangmazi,1,0,19.020000000000003
+cuisinart,d.perlla,1,0,16.455000000000005
+cuisinart,emojoy,1,0,30.455
+cuisinart,fohere,1,0,30.445000000000007
+cuisinart,katisun,1,0,10.455000000000005
+cuisinart,kuisine,1,0,30.455
+cuisinart,marco almond,1,0,15.455000000000005
+cuisinart,oster,1,0,3.7049999999999983
+cuisinart,retrosohoo,1,0,0.9550000000000054
+cuisinart,shan zu,1,0,6.455000000000005
+cuisinart,syokami,1,0,27.945000000000007
+cuisinart,wangmazi,1,0,20.455000000000005
+cutluxe,d.perlla,1,0,1.499999999999993
+cutluxe,emojoy,1,0,12.5
+cutluxe,fohere,1,0,12.490000000000009
+cutluxe,hampton forge,1,0,7.099999999999994
+cutluxe,katisun,1,0,7.499999999999993
+cutluxe,kuisine,1,0,12.5
+cutluxe,marco almond,1,0,2.499999999999993
+cutluxe,oster,1,0,21.659999999999997
+cutluxe,retrosohoo,1,0,16.999999999999993
+cutluxe,shan zu,1,0,11.499999999999993
+cutluxe,syokami,1,0,9.990000000000009
+cutluxe,wangmazi,1,0,2.500000000000007
+d.perlla,emojoy,1,0,13.999999999999993
+d.perlla,fohere,1,0,13.990000000000002
+d.perlla,hampton forge,1,0,5.600000000000001
+d.perlla,henckels,1,0,2.9949999999999974
+d.perlla,hoshanho,1,0,8.0
+d.perlla,huusk,1,0,6.0
+d.perlla,imarku,1,0,1.0
+d.perlla,katisun,1,0,6.0
+d.perlla,keemake,1,0,20.5
+d.perlla,kuisine,1,0,13.999999999999993
+d.perlla,mac knife,1,0,16.509999999999998
+d.perlla,marco almond,1,0,1.0
+d.perlla,mccook,1,0,3.0
+d.perlla,oster,1,0,20.160000000000004
+d.perlla,paudin,1,0,13.005000000000003
+d.perlla,retrosohoo,1,0,15.5
+d.perlla,shan zu,1,0,10.0
+d.perlla,styled settings,1,0,9.0
+d.perlla,syokami,1,0,11.490000000000002
+d.perlla,wangmazi,1,0,4.0
+emojoy,fohere,1,0,0.009999999999990905
+emojoy,hampton forge,1,0,19.599999999999994
+emojoy,henckels,1,0,16.99499999999999
+emojoy,hoshanho,1,0,5.999999999999993
+emojoy,huusk,1,0,19.999999999999993
+emojoy,imarku,1,0,14.999999999999993
+emojoy,katisun,1,0,19.999999999999993
+emojoy,keemake,1,0,34.49999999999999
+emojoy,kuisine,1,0,0.0
+emojoy,mac knife,1,0,2.510000000000005
+emojoy,marco almond,1,0,14.999999999999993
+emojoy,mccook,1,0,16.999999999999993
+emojoy,oster,1,0,34.16
+emojoy,paudin,1,0,27.004999999999995
+emojoy,retrosohoo,1,0,29.499999999999993
+emojoy,shan zu,1,0,23.999999999999993
+emojoy,styled settings,1,0,22.999999999999993
+emojoy,syokami,1,0,2.509999999999991
+emojoy,wangmazi,1,0,9.999999999999993
+fohere,hampton forge,1,0,19.590000000000003
+fohere,henckels,1,0,16.985
+fohere,hoshanho,1,0,5.990000000000002
+fohere,huusk,1,0,19.990000000000002
+fohere,imarku,1,0,14.990000000000002
+fohere,katisun,1,0,19.990000000000002
+fohere,keemake,1,0,34.49
+fohere,kuisine,1,0,0.009999999999990905
+fohere,mac knife,1,0,2.519999999999996
+fohere,marco almond,1,0,14.990000000000002
+fohere,mccook,1,0,16.990000000000002
+fohere,oster,1,0,34.150000000000006
+fohere,paudin,1,0,26.995000000000005
+fohere,retrosohoo,1,0,29.490000000000002
+fohere,shan zu,1,0,23.990000000000002
+fohere,styled settings,1,0,22.990000000000002
+fohere,syokami,1,0,2.5
+fohere,wangmazi,1,0,9.990000000000002
+hampton forge,hoshanho,1,0,13.600000000000001
+hampton forge,huusk,1,0,0.3999999999999986
+hampton forge,imarku,1,0,4.600000000000001
+hampton forge,katisun,1,0,0.3999999999999986
+hampton forge,keemake,1,0,14.899999999999999
+hampton forge,kuisine,1,0,19.599999999999994
+hampton forge,mac knife,1,0,22.11
+hampton forge,marco almond,1,0,4.600000000000001
+hampton forge,mccook,1,0,2.6000000000000014
+hampton forge,oster,1,0,14.560000000000002
+hampton forge,retrosohoo,1,0,9.899999999999999
+hampton forge,shan zu,1,0,4.399999999999999
+hampton forge,styled settings,1,0,3.3999999999999986
+hampton forge,syokami,1,0,17.090000000000003
+hampton forge,wangmazi,1,0,9.600000000000001
+henckels,katisun,1,0,3.0050000000000026
+henckels,kuisine,1,0,16.99499999999999
+henckels,marco almond,1,0,1.9949999999999974
+henckels,oster,1,0,17.165000000000006
+henckels,retrosohoo,1,0,12.505000000000003
+henckels,syokami,1,0,14.485
+henckels,wangmazi,1,0,6.994999999999997
+hoshanho,katisun,1,0,14.0
+hoshanho,kuisine,1,0,5.999999999999993
+hoshanho,marco almond,1,0,9.0
+hoshanho,oster,1,0,28.160000000000004
+hoshanho,retrosohoo,1,0,23.5
+hoshanho,syokami,1,0,3.490000000000002
+hoshanho,wangmazi,1,0,4.0
+huusk,katisun,1,0,0.0
+huusk,kuisine,1,0,19.999999999999993
+huusk,marco almond,1,0,5.0
+huusk,oster,1,0,14.160000000000004
+huusk,retrosohoo,1,0,9.5
+huusk,shan zu,1,0,4.0
+huusk,syokami,1,0,17.490000000000002
+huusk,wangmazi,1,0,10.0
+imarku,katisun,1,0,5.0
+imarku,kuisine,1,0,14.999999999999993
+imarku,marco almond,1,0,0.0
+imarku,oster,1,0,19.160000000000004
+imarku,retrosohoo,1,0,14.5
+imarku,shan zu,1,0,9.0
+imarku,syokami,1,0,12.490000000000002
+imarku,wangmazi,1,0,5.0
+katisun,keemake,1,0,14.5
+katisun,kuisine,1,0,19.999999999999993
+katisun,mac knife,1,0,22.509999999999998
+katisun,marco almond,1,0,5.0
+katisun,mccook,1,0,3.0
+katisun,oster,1,0,14.160000000000004
+katisun,paudin,1,0,7.005000000000003
+katisun,retrosohoo,1,0,9.5
+katisun,shan zu,1,0,4.0
+katisun,styled settings,1,0,3.0
+katisun,syokami,1,0,17.490000000000002
+katisun,wangmazi,1,0,10.0
+keemake,kuisine,1,0,34.49999999999999
+keemake,marco almond,1,0,19.5
+keemake,oster,1,0,0.3399999999999963
+keemake,retrosohoo,1,0,5.0
+keemake,shan zu,1,0,10.5
+keemake,syokami,1,0,31.990000000000002
+keemake,wangmazi,1,0,24.5
+kuisine,mac knife,1,0,2.510000000000005
+kuisine,marco almond,1,0,14.999999999999993
+kuisine,mccook,1,0,16.999999999999993
+kuisine,oster,1,0,34.16
+kuisine,paudin,1,0,27.004999999999995
+kuisine,retrosohoo,1,0,29.499999999999993
+kuisine,shan zu,1,0,23.999999999999993
+kuisine,styled settings,1,0,22.999999999999993
+kuisine,syokami,1,0,2.509999999999991
+kuisine,wangmazi,1,0,9.999999999999993
+mac knife,marco almond,1,0,17.509999999999998
+mac knife,oster,1,0,36.67
+mac knife,retrosohoo,1,0,32.01
+mac knife,shan zu,1,0,26.509999999999998
+mac knife,syokami,1,0,5.019999999999996
+mac knife,wangmazi,1,0,12.509999999999998
+marco almond,mccook,1,0,2.0
+marco almond,oster,1,0,19.160000000000004
+marco almond,paudin,1,0,12.005000000000003
+marco almond,retrosohoo,1,0,14.5
+marco almond,shan zu,1,0,9.0
+marco almond,styled settings,1,0,8.0
+marco almond,syokami,1,0,12.490000000000002
+marco almond,wangmazi,1,0,5.0
+mccook,oster,1,0,17.160000000000004
+mccook,retrosohoo,1,0,12.5
+mccook,shan zu,1,0,7.0
+mccook,syokami,1,0,14.490000000000002
+mccook,wangmazi,1,0,7.0
+oster,paudin,1,0,7.155000000000001
+oster,retrosohoo,1,0,4.660000000000004
+oster,shan zu,1,0,10.160000000000004
+oster,styled settings,1,0,11.160000000000004
+oster,syokami,1,0,31.650000000000006
+oster,wangmazi,1,0,24.160000000000004
+paudin,retrosohoo,1,0,2.4949999999999974
+paudin,shan zu,1,0,3.0050000000000026
+paudin,syokami,1,0,24.495000000000005
+paudin,wangmazi,1,0,17.005000000000003
+retrosohoo,shan zu,1,0,5.5
+retrosohoo,styled settings,1,0,6.5
+retrosohoo,syokami,1,0,26.990000000000002
+retrosohoo,wangmazi,1,0,19.5
+shan zu,styled settings,1,0,1.0
+shan zu,syokami,1,0,21.490000000000002
+shan zu,wangmazi,1,0,14.0
+styled settings,syokami,1,0,20.490000000000002
+styled settings,wangmazi,1,0,13.0
+syokami,wangmazi,1,0,7.490000000000002
+astercook,brodark,1,0,17.489999999999995
+astercook,generic,1,0,26.99000000000001
+astercook,klaus meyer,1,0,4.410000000000011
+astercook,knifesaga,1,0,53.010000000000005
+astercook,mdhand,1,0,26.99000000000001
+astercook,nanfang brothers,1,0,28.760000000000005
+astercook,wizeka,1,0,1.980000000000004
+astercook,xyj,1,0,4.490000000000009
+astercook,yatoshi knives,1,0,83.01
+brodark,cuisinart,1,0,14.049999999999983
+brodark,cutluxe,1,0,20.499999999999986
+brodark,generic,1,0,9.500000000000014
+brodark,henckels,1,0,45.45999999999998
+brodark,hoshanho,1,0,30.30000000000001
+brodark,huusk,1,0,30.5
+brodark,imarku,1,0,10.499999999999986
+brodark,keemake,1,0,5.499999999999986
+brodark,klaus meyer,1,0,13.079999999999984
+brodark,knifesaga,1,0,70.5
+brodark,mac knife,1,0,27.45999999999998
+brodark,mccook,1,0,26.499999999999986
+brodark,mdhand,1,0,9.500000000000014
+brodark,nanfang brothers,1,0,46.25
+brodark,paudin,1,0,20.499999999999986
+brodark,styled settings,1,0,9.500000000000014
+brodark,wizeka,1,0,15.509999999999991
+brodark,xyj,1,0,12.999999999999986
+brodark,yatoshi knives,1,0,100.5
+cuisinart,generic,1,0,23.549999999999997
+cuisinart,klaus meyer,1,0,0.9699999999999989
+cuisinart,knifesaga,1,0,56.45000000000002
+cuisinart,mdhand,1,0,23.549999999999997
+cuisinart,nanfang brothers,1,0,32.20000000000002
+cuisinart,wizeka,1,0,1.460000000000008
+cuisinart,xyj,1,0,1.0499999999999972
+cuisinart,yatoshi knives,1,0,86.45000000000002
+cutluxe,generic,1,0,30.0
+cutluxe,klaus meyer,1,0,7.420000000000002
+cutluxe,knifesaga,1,0,50.000000000000014
+cutluxe,mdhand,1,0,30.0
+cutluxe,nanfang brothers,1,0,25.750000000000014
+cutluxe,wizeka,1,0,4.989999999999995
+cutluxe,xyj,1,0,7.5
+cutluxe,yatoshi knives,1,0,80.00000000000001
+generic,henckels,1,0,54.959999999999994
+generic,hoshanho,1,0,39.800000000000026
+generic,huusk,1,0,40.000000000000014
+generic,imarku,1,0,20.0
+generic,keemake,1,0,15.0
+generic,klaus meyer,1,0,22.58
+generic,knifesaga,1,0,80.00000000000001
+generic,mac knife,1,0,36.959999999999994
+generic,mccook,1,0,36.0
+generic,mdhand,1,0,0.0
+generic,nanfang brothers,1,0,55.750000000000014
+generic,paudin,1,0,30.0
+generic,styled settings,1,0,0.0
+generic,wizeka,1,0,25.010000000000005
+generic,xyj,1,0,22.5
+generic,yatoshi knives,1,0,110.00000000000001
+henckels,klaus meyer,1,0,32.379999999999995
+henckels,knifesaga,1,0,25.04000000000002
+henckels,mdhand,1,0,54.959999999999994
+henckels,wizeka,1,0,29.94999999999999
+henckels,xyj,1,0,32.459999999999994
+henckels,yatoshi knives,1,0,55.04000000000002
+hoshanho,klaus meyer,1,0,17.220000000000027
+hoshanho,knifesaga,1,0,40.19999999999999
+hoshanho,mdhand,1,0,39.800000000000026
+hoshanho,wizeka,1,0,14.79000000000002
+hoshanho,xyj,1,0,17.300000000000026
+hoshanho,yatoshi knives,1,0,70.19999999999999
+huusk,klaus meyer,1,0,17.420000000000016
+huusk,knifesaga,1,0,40.0
+huusk,mdhand,1,0,40.000000000000014
+huusk,nanfang brothers,1,0,15.75
+huusk,wizeka,1,0,14.990000000000009
+huusk,xyj,1,0,17.500000000000014
+huusk,yatoshi knives,1,0,70.0
+imarku,klaus meyer,1,0,2.5799999999999983
+imarku,mdhand,1,0,20.0
+imarku,nanfang brothers,1,0,35.750000000000014
+imarku,wizeka,1,0,5.010000000000005
+imarku,xyj,1,0,2.5
+imarku,yatoshi knives,1,0,90.00000000000001
+keemake,klaus meyer,1,0,7.579999999999998
+keemake,knifesaga,1,0,65.00000000000001
+keemake,mdhand,1,0,15.0
+keemake,nanfang brothers,1,0,40.750000000000014
+keemake,wizeka,1,0,10.010000000000005
+keemake,xyj,1,0,7.5
+keemake,yatoshi knives,1,0,95.00000000000001
+klaus meyer,knifesaga,1,0,57.420000000000016
+klaus meyer,mac knife,1,0,14.379999999999995
+klaus meyer,mccook,1,0,13.420000000000002
+klaus meyer,mdhand,1,0,22.58
+klaus meyer,nanfang brothers,1,0,33.170000000000016
+klaus meyer,paudin,1,0,7.420000000000002
+klaus meyer,styled settings,1,0,22.58
+klaus meyer,wizeka,1,0,2.430000000000007
+klaus meyer,xyj,1,0,0.0799999999999983
+klaus meyer,yatoshi knives,1,0,87.42000000000002
+knifesaga,mac knife,1,0,43.04000000000002
+knifesaga,mccook,1,0,44.000000000000014
+knifesaga,mdhand,1,0,80.00000000000001
+knifesaga,nanfang brothers,1,0,24.25
+knifesaga,paudin,1,0,50.000000000000014
+knifesaga,styled settings,1,0,80.00000000000001
+knifesaga,wizeka,1,0,54.99000000000001
+knifesaga,xyj,1,0,57.500000000000014
+knifesaga,yatoshi knives,1,0,30.0
+mac knife,mdhand,1,0,36.959999999999994
+mac knife,nanfang brothers,1,0,18.79000000000002
+mac knife,wizeka,1,0,11.949999999999989
+mac knife,xyj,1,0,14.459999999999994
+mac knife,yatoshi knives,1,0,73.04000000000002
+mccook,mdhand,1,0,36.0
+mccook,nanfang brothers,1,0,19.750000000000014
+mccook,wizeka,1,0,10.989999999999995
+mccook,xyj,1,0,13.5
+mccook,yatoshi knives,1,0,74.00000000000001
+mdhand,nanfang brothers,1,0,55.750000000000014
+mdhand,paudin,1,0,30.0
+mdhand,styled settings,1,0,0.0
+mdhand,wizeka,1,0,25.010000000000005
+mdhand,xyj,1,0,22.5
+mdhand,yatoshi knives,1,0,110.00000000000001
+nanfang brothers,paudin,1,0,25.750000000000014
+nanfang brothers,styled settings,1,0,55.750000000000014
+nanfang brothers,wizeka,1,0,30.74000000000001
+nanfang brothers,xyj,1,0,33.250000000000014
+nanfang brothers,yatoshi knives,1,0,54.25
+paudin,wizeka,1,0,4.989999999999995
+paudin,xyj,1,0,7.5
+paudin,yatoshi knives,1,0,80.00000000000001
+styled settings,wizeka,1,0,25.010000000000005
+styled settings,xyj,1,0,22.5
+styled settings,yatoshi knives,1,0,110.00000000000001
+wizeka,xyj,1,0,2.510000000000005
+wizeka,yatoshi knives,1,0,84.99000000000001
+xyj,yatoshi knives,1,0,87.50000000000001
+cangshan,cutco,1,0,1503.3249999999998
+cangshan,henckels,1,0,141.555
+cangshan,hoshanho,1,0,131.515
+cangshan,nanfang brothers,1,0,91.51499999999999
+cangshan,shan zu,1,0,101.51499999999999
+cutco,henckels,1,0,1644.8799999999999
+cutco,hoshanho,1,0,1634.84
+cutco,nanfang brothers,1,0,1594.84
+cutco,shan zu,1,0,1604.84
+nanfang brothers,shan zu,1,0,10.0
+,"price, product page$79.99$79.99",0,1,
+,"price, product page$69.99$69.99",0,1,
+,hoshanho,0,1,
+,paudin,0,1,

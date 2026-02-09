@@ -1,0 +1,13 @@
+pattern,material_norm,material_display_cn,priority
+\bVG[-\s]?10\b,vg10,VG10,1
+\bAUS[-\s]?10\b,aus10,AUS-10,2
+\bAUS[-\s]?8\b,aus8,AUS-8,3
+\b440C\b,440c,440C,4
+\bD2\b,d2,D2,5
+\bX\s*50\s*Cr\s*Mo\s*V\s*15\b,x50crmov15,X50CrMoV15,6
+\bdamascus\b,damascus,大马士革,10
+\bpowder\s+steel\b,powder_steel,粉末钢,11
+\bgerman\s+steel\b,german_steel,德国钢,12
+\bhigh\s+carbon\b,high_carbon,高碳钢,20
+\bcarbon\s+steel\b,carbon_steel,碳钢,21
+\bstainless\b,stainless,不锈钢,30

@@ -1,0 +1,26 @@
+{
+  "inputs": {
+    "products": "预测建模\\data\\products_clean.csv",
+    "reviews": "预测建模\\data\\reviews_cleaned.csv",
+    "absa": "预测建模\\data\\absa_detailed.csv"
+  },
+  "counts_raw": {
+    "products": 946,
+    "reviews": 2218,
+    "absa": 3778
+  },
+  "missing_review_asin_n": 0,
+  "missing_absa_review_id_n": 0,
+  "counts_after_fk": {
+    "products": 946,
+    "reviews": 2218,
+    "absa": 3778
+  },
+  "coverage": {
+    "products_total": 946,
+    "has_painpoint_edge": 116,
+    "has_material_edge": 896,
+    "has_knife_type_edge": 942,
+    "has_keyword_edge": 717
+  }
+}
